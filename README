@@ -1,0 +1,22 @@
+This is a simple MTC timecode display built on the Arduino
+platform:
+
+    http://www.arduino.cc/
+
+You'll need to build a MIDI interface such as the following:
+
+    http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1187962258/
+
+and hook up an eight digit 7 segment display using a MAX7221
+controller:
+
+    http://www.wayoda.org/arduino/ledcontrol/index.html
+
+More information is available at:
+
+    http://www.padl.com/~lukeh/MTC.pdf
+
+--
+Luke Howard <lukeh@padl.com>
+April, 2008
+
